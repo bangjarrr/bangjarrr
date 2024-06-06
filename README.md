@@ -8,14 +8,14 @@ For more interesting projects and repositories, please follow my main account. Y
 ## `Follow My Main Account`
 Stay updated with my latest projects and contributions by following my main GitHub account:
 
-[Main GitHub Account](https://github.com/alfajarjaya)
+[First GitHub Account](https://github.com/alfajarjaya)
 
 ## `Connect with Me`
 Feel free to reach out and connect with me through various platforms:
 
 - **Website**: [visti me](https://alfajjar.vercel.app)
-- **Instagram**: [Your Instagram](https://www.instagram.com/bang_jarrrz)
-- **Telegram**: [Your Telegram](https://t.me/Njir_18)
+- **Instagram**: [Instagram](https://www.instagram.com/bang_jarrrz)
+- **Telegram**: [Telegram](https://t.me/Njir_18)
 
 Thank you for visiting and happy coding!
 
